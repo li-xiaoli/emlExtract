@@ -1,0 +1,64 @@
+Received: from 194.109.24.26 (unknown [194.109.24.26])
+	by bizmx3.qq.com (NewMx) with SMTP id 
+	for <c@lacrimosa.us>; Fri, 19 Jul 2013 06:30:56 +0800
+X-QQ-SSF: 016000000100000001F000020000001
+X-QQ-mid: bizmx3t1374186658te991lky3
+X-KK-mid:bizmxp2t1374186658t9xdlj9rb
+Received: from whl-www10.xs4all.net (whl-www10.xs4all.net [194.109.22.90])
+	by smtp-vbr6.xs4all.nl (8.13.8/8.13.8) with ESMTP id r6IMUjUK066410
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <c@lacrimosa.us>; Fri, 19 Jul 2013 00:30:51 +0200 (CEST)
+	(envelope-from richelb@xs4all.nl)
+Received: from whl-www10.xs4all.net (IDENT:1587670@localhost [127.0.0.1])
+	by whl-www10.xs4all.net (8.14.3/8.14.3/Debian-9.4) with ESMTP id r6IMUjIp001419
+	for <c@lacrimosa.us>; Fri, 19 Jul 2013 00:30:45 +0200
+Received: (from richelb@localhost)
+	by whl-www10.xs4all.net (8.14.3/8.14.3/Submit) id r6IMUjGS001418;
+	Fri, 19 Jul 2013 00:30:45 +0200
+Date: Fri, 19 Jul 2013 00:30:45 +0200
+From: "b.g. richel"  <richelb@xs4all.nl>
+Message-Id: <201307182230.r6IMUjGS001418@whl-www10.xs4all.net>
+To: c@lacrimosa.us
+Subject: Dear Boudewijn,booking form from Mali website...
+X-PHP-Originating-Script: 1587670:booking.php
+X-Virus-Scanned: by XS4ALL Virus Scanner
+
+Aantal_personen: 
+
+Geslacht_Hoofdeelnemer: 
+letters_Hoofddeelnemer: 
+Tussenvoegsel_Hoofddeelnemer: 
+Naam_Hoofddeelnemer: 
+Adres: 
+Huisnummer: 
+Postcode: 
+Woonplaats: 
+Telefoon: 
+Telefoon_Kantoor: 
+Email: 
+Paspoort_Hoofddeelnemer: 
+
+Geslacht_Deelnemer_2: 
+Voorletters_Deelnemer_2: 
+Tussenvoegsel_Deelnemer_2: 
+Naam_Deelnemer_2: 
+Geboorte_Deelnemer_2: 
+Paspoort_Deelnemer_2: 
+
+Geslacht_Deelnemer_3: 
+Voorletters_Deelnemer_3: 
+Tussenvoegsel_Deelnemer_3: 
+Naam_Deelnemer_3: 
+Geboorte_Deelnemer_3: 
+Paspoort_Deelnemer_3: 
+
+Geslacht_Deelnemer_4: 
+Voorletters_Deelnemer_4: 
+Tussenvoegsel_Deelnemer_4: 
+Naam_Deelnemer_4: 
+Geboorte_Deelnemer_4: 
+Paspoort_Deelnemer_4: 
+
+opmerkingen:
+
+

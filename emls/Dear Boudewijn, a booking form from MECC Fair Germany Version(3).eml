@@ -1,0 +1,24 @@
+Received: from smtp-vbr12.xs4all.nl (unknown [194.109.24.32])
+	by newmx58.qq.com (NewMx) with SMTP id 
+	for <1513415687@qq.com>; Sat, 29 Jun 2013 02:46:09 +0800
+X-QQ-SSF: 005100000000000001F000020000001
+X-QQ-mid: mx58t1372445171tsa8nrn45
+Received: from whl-www15.xs4all.net (whl-www15.xs4all.net [194.109.22.94])
+	by smtp-vbr12.xs4all.nl (8.13.8/8.13.8) with ESMTP id r5SIk2L1093721
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <1513415687@qq.com>; Fri, 28 Jun 2013 20:46:03 +0200 (CEST)
+	(envelope-from vakbeu@xs4all.nl)
+Received: from whl-www15.xs4all.net (IDENT:1922828@localhost [127.0.0.1])
+	by whl-www15.xs4all.net (8.14.3/8.14.3/Debian-9.4) with ESMTP id r5SIk1rj028472
+	for <1513415687@qq.com>; Fri, 28 Jun 2013 20:46:02 +0200
+Received: (from vakbeu@localhost)
+	by whl-www15.xs4all.net (8.14.3/8.14.3/Submit) id r5SIk0Nj028471;
+	Fri, 28 Jun 2013 20:46:00 +0200
+Date: Fri, 28 Jun 2013 20:46:00 +0200
+From: "b.g. richel"  <vakbeu@xs4all.nl>
+Message-Id: <201306281846.r5SIk0Nj028471@whl-www15.xs4all.net>
+To: 1513415687@qq.com
+Subject: Dear Boudewijn, a booking form from MECC Fair Germany Version
+X-PHP-Originating-Script: 1922828:aanmelden.php
+X-Virus-Scanned: by XS4ALL Virus Scanner
+

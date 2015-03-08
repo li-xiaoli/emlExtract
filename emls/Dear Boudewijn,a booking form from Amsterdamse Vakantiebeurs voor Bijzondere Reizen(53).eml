@@ -1,0 +1,25 @@
+Received: from 194.109.24.21 (unknown [194.109.24.21])
+	by newmx26.qq.com (NewMx) with SMTP id 
+	for <1513415687@qq.com>; Wed, 03 Jul 2013 18:13:06 +0800
+X-QQ-SSF: 006100000000000001F000020000001
+X-QQ-mid: usamxproxy1t1372846388tpbzhx4p
+X-KK-mid:usamxproxy1t1372846388tpbzhx4p
+Received: from whl-www9.xs4all.net (whl-www9.xs4all.net [194.109.22.89])
+	by smtp-vbr1.xs4all.nl (8.13.8/8.13.8) with ESMTP id r63AD0S8039764
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <1513415687@qq.com>; Wed, 3 Jul 2013 12:13:00 +0200 (CEST)
+	(envelope-from richel2@xs4all.nl)
+Received: from whl-www9.xs4all.net (IDENT:1639460@localhost [127.0.0.1])
+	by whl-www9.xs4all.net (8.14.3/8.14.3/Debian-9.4) with ESMTP id r63AD0CA032680
+	for <1513415687@qq.com>; Wed, 3 Jul 2013 12:13:00 +0200
+Received: (from richel2@localhost)
+	by whl-www9.xs4all.net (8.14.3/8.14.3/Submit) id r63ACxx9032677;
+	Wed, 3 Jul 2013 12:12:59 +0200
+Date: Wed, 3 Jul 2013 12:12:59 +0200
+From: "b.g. richel"  <richel2@xs4all.nl>
+Message-Id: <201307031012.r63ACxx9032677@whl-www9.xs4all.net>
+To: 1513415687@qq.com
+Subject: Dear Boudewijn,a booking form from Amsterdamse Vakantiebeurs voor Bijzondere Reizen
+X-PHP-Originating-Script: 1639460:aanmelden.php
+X-Virus-Scanned: by XS4ALL Virus Scanner
+
